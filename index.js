@@ -147,12 +147,12 @@ var qr_code_ovo = 'https://h.top4top.io/p_2053vk0uw1.jpg' //gk usah di ubah ya k
 var qr_code_dana = 'https://j.top4top.io/p_20532posd1.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
-var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
-var __minggu = 'Rp 15.000,00'
-var ___minggu = 'Rp 20.000,00'
-var _bulan = 'Rp 22.000,00'
-var _permanen = 'Rp 100.000,00'
-var __permanen = 'Rp 150.000,00'
+var _minggu = 'Rp 00.000,00' //Masukkan harga sewa sesuai keinginan
+var __minggu = 'Rp 00.000,00'
+var ___minggu = 'Rp 00.000,00'
+var _bulan = 'Rp 00.000,00'
+var _permanen = 'Rp 000.000,00'
+var __permanen = 'Rp 000.000,00'
 
 zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
@@ -187,9 +187,9 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = 'SUB YT ZEEONE OFC'
+baper = 'hyy sayang'
 apiku = 'https://youtu.be/2rWbjrDIAyA'
-gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
+gc_wa_lu = 'https://chat.whatsapp.com/GuTL7PT3qfN9jAABHfzbFF' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
 fake = setting.fake
@@ -215,7 +215,7 @@ loseawal = 1
 memberwin = 1 
 memberlose = 1 
 
-//Credit For 404 SQUAD ( Gk usah di hapus mek)
+//Credit For 404 SQUAD ( Gk usah di hapus)
 //Lingz
 //Felix
 //Lenz
